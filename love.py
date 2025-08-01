@@ -148,4 +148,5 @@ if st.button("💖 Show me some love!"):
     st.success(random.choice(love_quotes))
 
 # ------------------- FOOTER -------------------
-st.markdown('<div class="footer">Made with ❤️ by You, for the love of your life.</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Made with ❤️ by Lychee, for Strawberry.</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">I LOVE YOU</div>', unsafe_allow_html=True)
